@@ -1,9 +1,10 @@
 import React from 'react';
+import Body from './Components/Body/Body';
 
 const App = () => {
     return (
         <div>
-            Hello Num
+            <Body />
         </div>
     );
 }
