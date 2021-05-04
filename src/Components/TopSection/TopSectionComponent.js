@@ -4,8 +4,6 @@ import './TopSectionComponent.css';
 const TopSectionComponent = () => {
     return (
         <>
-
-
             <div id="index-banner" class="parallax-container">
                 <div class="section no-pad-bot">
                     <div class="container">
@@ -17,10 +15,12 @@ const TopSectionComponent = () => {
                         </div>
                         <div class="row center">
                             <a id="download-button" class="btn-large waves-effect waves-light teal lighten-1"
-                                href="https://github.com/mdnmnahmed/apis-store-backend/blob/master/Postman-Collection/api-store.postman_collection.json?raw=true" download="" target="_BLANK"
+                                href="https://drive.google.com/u/0/uc?id=1gem1T5s6sqWAgRpEq_lgatX205Xudiz2&export=download"
+                                download
+                                target="_BLANK"
                             >
                                 <span class="fa fa-download"></span> Download Postman Collection
-                                </a>
+                            </a>
                         </div>
                         <br />
                         <br />
